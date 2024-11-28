@@ -16,7 +16,7 @@
 
 <script lang="ts">
     import { defineComponent } from 'vue';
-    import { Test } from '../features/test';
+    import { Test } from '@/features/test';
 
     export default defineComponent({
         name: 'App',
